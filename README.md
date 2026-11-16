@@ -1,7 +1,7 @@
 
 # Quick 🚀
 
-A repository for learning and practicing GitHub workflows.
+A repository for learning and practicing GitHub workflows
 
 ## What I'm Learning !
 
