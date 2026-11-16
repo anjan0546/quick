@@ -3,7 +3,7 @@
 
 A repository for learning and practicing GitHub workflows
 
-## What I'm Learning !
+## What I'm Learning 
 
 - Git and GitHub
 - Branching and merging
